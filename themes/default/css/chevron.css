@@ -1,0 +1,36 @@
+#DropArea{
+	cursor: pointer;
+	border:solid 1px gray;
+	height :600px;
+	width: 800px;
+	position:relative;
+	overflow-y:scroll;	
+}
+
+.chevron-text{
+	height:5px;
+	width:10px;
+	
+
+}
+.toolbox{
+	border:solid 1px gray;
+	height :100px;
+	width: 200px;
+}
+
+.chevron{
+	
+	left:500px;
+    top:150px;
+     width:165px;
+    height:80px;
+    display:inline-block;
+   
+     float:left;
+     
+    margin-right:6px;
+    vertical-align:top;
+    
+    background-image:url(../img/123.jpg);
+}
